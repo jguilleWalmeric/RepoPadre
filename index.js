@@ -1,4 +1,4 @@
-import '../RepoHijoImportado';
+import './RepoHijoImportado';
 
 LibA.Saluda();
 LibB.Saluda();
