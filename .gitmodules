@@ -1,0 +1,3 @@
+[submodule "RepoHijoImportado"]
+	path = RepoHijoImportado
+	url = https://github.com/jguilleWalmeric/RepoHijo.git
